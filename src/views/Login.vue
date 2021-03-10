@@ -1,6 +1,6 @@
 <template>
-  <div class="about">
-    <h5>Waiting Update</h5>
+  <div class="login">
+      <h5>Waiting Update</h5>
   </div>
 </template>
 <style>

@@ -1,5 +1,5 @@
 <template>
-  <div class="about">
+  <div class="basket">
     <h5>Waiting Update</h5>
   </div>
 </template>
